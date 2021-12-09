@@ -1,0 +1,6 @@
+framework module Pods_TDCBanner_Tests {
+  umbrella header "Pods-TDCBanner_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

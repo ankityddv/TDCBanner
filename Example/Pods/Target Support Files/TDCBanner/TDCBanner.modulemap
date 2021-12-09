@@ -1,0 +1,6 @@
+framework module TDCBanner {
+  umbrella header "TDCBanner-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TDCBanner",
+  "version": "0.1.0",
+  "summary": "A short description of TDCBanner.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/49836141/TDCBanner",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "49836141": "yadavankit840@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/49836141/TDCBanner.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TDCBanner/Classes/**/*"
+}

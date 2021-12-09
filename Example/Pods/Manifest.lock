@@ -1,0 +1,16 @@
+PODS:
+  - TDCBanner (0.1.0)
+
+DEPENDENCIES:
+  - TDCBanner (from `../`)
+
+EXTERNAL SOURCES:
+  TDCBanner:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TDCBanner: 7b7f2c3c0632073aa2f8feabf28b013b70ab13f4
+
+PODFILE CHECKSUM: ab2a3c76cf7d2d4a18da51951f4d1ccf68df728b
+
+COCOAPODS: 1.11.2
